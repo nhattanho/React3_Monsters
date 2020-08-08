@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React3_Monsters/static/css/main.b2494342.chunk.css",
+    "main.js": "/React3_Monsters/static/js/main.02ff5b12.chunk.js",
+    "main.js.map": "/React3_Monsters/static/js/main.02ff5b12.chunk.js.map",
+    "runtime-main.js": "/React3_Monsters/static/js/runtime-main.604559bf.js",
+    "runtime-main.js.map": "/React3_Monsters/static/js/runtime-main.604559bf.js.map",
+    "static/js/2.a8bb8d99.chunk.js": "/React3_Monsters/static/js/2.a8bb8d99.chunk.js",
+    "static/js/2.a8bb8d99.chunk.js.map": "/React3_Monsters/static/js/2.a8bb8d99.chunk.js.map",
+    "index.html": "/React3_Monsters/index.html",
+    "precache-manifest.5ad00dd476376141b484c6364dbc790c.js": "/React3_Monsters/precache-manifest.5ad00dd476376141b484c6364dbc790c.js",
+    "service-worker.js": "/React3_Monsters/service-worker.js",
+    "static/css/main.b2494342.chunk.css.map": "/React3_Monsters/static/css/main.b2494342.chunk.css.map",
+    "static/js/2.a8bb8d99.chunk.js.LICENSE.txt": "/React3_Monsters/static/js/2.a8bb8d99.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React3_Monsters/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.604559bf.js",
+    "static/js/2.a8bb8d99.chunk.js",
+    "static/css/main.b2494342.chunk.css",
+    "static/js/main.02ff5b12.chunk.js"
+  ]
+}
